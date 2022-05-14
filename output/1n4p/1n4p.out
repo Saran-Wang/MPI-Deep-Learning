@@ -1,0 +1,83 @@
+here
+here
+here
+here
+Time taken to read file: 0.54s
+
+Start of epoch 0
+At step 10, Update gradient for each batch taken: 0.16s
+At step 20, Update gradient for each batch taken: 0.17s
+At step 30, Update gradient for each batch taken: 0.16s
+At step 40, Update gradient for each batch taken: 0.16s
+At step 50, Update gradient for each batch taken: 0.18s
+At step 60, Update gradient for each batch taken: 0.19s
+At step 70, Update gradient for each batch taken: 0.19s
+At step 80, Update gradient for each batch taken: 0.19s
+At step 90, Update gradient for each batch taken: 0.20s
+At step 100, Update gradient for each batch taken: 0.20s
+At step 110, Update gradient for each batch taken: 0.21s
+Time taken: 31.31s
+Training acc over epoch: 0.7739, Training loss (for one epoch) at step: 0.6805
+
+Start of epoch 1
+At step 10, Update gradient for each batch taken: 0.20s
+At step 20, Update gradient for each batch taken: 0.21s
+At step 30, Update gradient for each batch taken: 0.21s
+At step 40, Update gradient for each batch taken: 0.21s
+At step 50, Update gradient for each batch taken: 0.21s
+At step 60, Update gradient for each batch taken: 0.21s
+At step 70, Update gradient for each batch taken: 0.19s
+At step 80, Update gradient for each batch taken: 0.20s
+At step 90, Update gradient for each batch taken: 0.21s
+At step 100, Update gradient for each batch taken: 0.20s
+At step 110, Update gradient for each batch taken: 0.20s
+Time taken: 35.52s
+Training acc over epoch: 0.9484, Training loss (for one epoch) at step: 0.1733
+
+Start of epoch 2
+At step 10, Update gradient for each batch taken: 0.20s
+At step 20, Update gradient for each batch taken: 0.19s
+At step 30, Update gradient for each batch taken: 0.18s
+At step 40, Update gradient for each batch taken: 0.21s
+At step 50, Update gradient for each batch taken: 0.21s
+At step 60, Update gradient for each batch taken: 0.21s
+At step 70, Update gradient for each batch taken: 0.21s
+At step 80, Update gradient for each batch taken: 0.20s
+At step 90, Update gradient for each batch taken: 0.19s
+At step 100, Update gradient for each batch taken: 0.18s
+At step 110, Update gradient for each batch taken: 0.20s
+Time taken: 34.40s
+Training acc over epoch: 0.9651, Training loss (for one epoch) at step: 0.1174
+
+Start of epoch 3
+At step 10, Update gradient for each batch taken: 0.20s
+At step 20, Update gradient for each batch taken: 0.20s
+At step 30, Update gradient for each batch taken: 0.21s
+At step 40, Update gradient for each batch taken: 0.20s
+At step 50, Update gradient for each batch taken: 0.19s
+At step 60, Update gradient for each batch taken: 0.17s
+At step 70, Update gradient for each batch taken: 0.18s
+At step 80, Update gradient for each batch taken: 0.18s
+At step 90, Update gradient for each batch taken: 0.17s
+At step 100, Update gradient for each batch taken: 0.17s
+At step 110, Update gradient for each batch taken: 0.16s
+Time taken: 41.03s
+Training acc over epoch: 0.9731, Training loss (for one epoch) at step: 0.0920
+
+Start of epoch 4
+At step 10, Update gradient for each batch taken: 0.16s
+At step 20, Update gradient for each batch taken: 0.16s
+At step 30, Update gradient for each batch taken: 0.16s
+At step 40, Update gradient for each batch taken: 0.16s
+At step 50, Update gradient for each batch taken: 0.16s
+At step 60, Update gradient for each batch taken: 0.15s
+At step 70, Update gradient for each batch taken: 0.15s
+At step 80, Update gradient for each batch taken: 0.16s
+At step 90, Update gradient for each batch taken: 0.15s
+At step 100, Update gradient for each batch taken: 0.16s
+At step 110, Update gradient for each batch taken: 0.16s
+Time taken: 27.58s
+Training acc over epoch: 0.9772, Training loss (for one epoch) at step: 0.0751
+Test loss: 0.0659707710146904
+Test accuracy: 0.9828000068664551
+Total run time: 193.12s

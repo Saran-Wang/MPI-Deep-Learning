@@ -1,0 +1,255 @@
+here
+Time taken to read file: 0.53s
+
+Start of epoch 0
+At step 10, Update gradient for each batch taken: 0.15s
+At step 20, Update gradient for each batch taken: 0.15s
+At step 30, Update gradient for each batch taken: 0.14s
+At step 40, Update gradient for each batch taken: 0.14s
+At step 50, Update gradient for each batch taken: 0.15s
+At step 60, Update gradient for each batch taken: 0.18s
+At step 70, Update gradient for each batch taken: 0.18s
+At step 80, Update gradient for each batch taken: 0.18s
+At step 90, Update gradient for each batch taken: 0.18s
+At step 100, Update gradient for each batch taken: 0.19s
+At step 110, Update gradient for each batch taken: 0.19s
+At step 120, Update gradient for each batch taken: 0.20s
+At step 130, Update gradient for each batch taken: 0.19s
+At step 140, Update gradient for each batch taken: 0.18s
+At step 150, Update gradient for each batch taken: 0.19s
+At step 160, Update gradient for each batch taken: 0.19s
+At step 170, Update gradient for each batch taken: 0.20s
+At step 180, Update gradient for each batch taken: 0.20s
+At step 190, Update gradient for each batch taken: 0.20s
+At step 200, Update gradient for each batch taken: 0.19s
+At step 210, Update gradient for each batch taken: 0.19s
+At step 220, Update gradient for each batch taken: 0.18s
+At step 230, Update gradient for each batch taken: 0.20s
+At step 240, Update gradient for each batch taken: 0.19s
+At step 250, Update gradient for each batch taken: 0.19s
+At step 260, Update gradient for each batch taken: 0.19s
+At step 270, Update gradient for each batch taken: 0.19s
+At step 280, Update gradient for each batch taken: 0.19s
+At step 290, Update gradient for each batch taken: 0.17s
+At step 300, Update gradient for each batch taken: 0.17s
+At step 310, Update gradient for each batch taken: 0.19s
+At step 320, Update gradient for each batch taken: 0.19s
+At step 330, Update gradient for each batch taken: 0.19s
+At step 340, Update gradient for each batch taken: 0.19s
+At step 350, Update gradient for each batch taken: 0.19s
+At step 360, Update gradient for each batch taken: 0.19s
+At step 370, Update gradient for each batch taken: 0.17s
+At step 380, Update gradient for each batch taken: 0.18s
+At step 390, Update gradient for each batch taken: 0.19s
+At step 400, Update gradient for each batch taken: 0.19s
+At step 410, Update gradient for each batch taken: 0.19s
+At step 420, Update gradient for each batch taken: 0.19s
+At step 430, Update gradient for each batch taken: 0.20s
+At step 440, Update gradient for each batch taken: 0.19s
+At step 450, Update gradient for each batch taken: 0.18s
+At step 460, Update gradient for each batch taken: 0.19s
+Time taken: 142.05s
+Training acc over epoch: 0.8907, Training loss (for one epoch) at step: 0.3454
+
+Start of epoch 1
+At step 10, Update gradient for each batch taken: 0.15s
+At step 20, Update gradient for each batch taken: 0.15s
+At step 30, Update gradient for each batch taken: 0.15s
+At step 40, Update gradient for each batch taken: 0.15s
+At step 50, Update gradient for each batch taken: 0.14s
+At step 60, Update gradient for each batch taken: 0.15s
+At step 70, Update gradient for each batch taken: 0.14s
+At step 80, Update gradient for each batch taken: 0.14s
+At step 90, Update gradient for each batch taken: 0.15s
+At step 100, Update gradient for each batch taken: 0.14s
+At step 110, Update gradient for each batch taken: 0.15s
+At step 120, Update gradient for each batch taken: 0.15s
+At step 130, Update gradient for each batch taken: 0.15s
+At step 140, Update gradient for each batch taken: 0.15s
+At step 150, Update gradient for each batch taken: 0.13s
+At step 160, Update gradient for each batch taken: 0.14s
+At step 170, Update gradient for each batch taken: 0.15s
+At step 180, Update gradient for each batch taken: 0.14s
+At step 190, Update gradient for each batch taken: 0.13s
+At step 200, Update gradient for each batch taken: 0.14s
+At step 210, Update gradient for each batch taken: 0.14s
+At step 220, Update gradient for each batch taken: 0.14s
+At step 230, Update gradient for each batch taken: 0.14s
+At step 240, Update gradient for each batch taken: 0.14s
+At step 250, Update gradient for each batch taken: 0.14s
+At step 260, Update gradient for each batch taken: 0.14s
+At step 270, Update gradient for each batch taken: 0.14s
+At step 280, Update gradient for each batch taken: 0.14s
+At step 290, Update gradient for each batch taken: 0.14s
+At step 300, Update gradient for each batch taken: 0.14s
+At step 310, Update gradient for each batch taken: 0.13s
+At step 320, Update gradient for each batch taken: 0.13s
+At step 330, Update gradient for each batch taken: 0.13s
+At step 340, Update gradient for each batch taken: 0.13s
+At step 350, Update gradient for each batch taken: 0.14s
+At step 360, Update gradient for each batch taken: 0.13s
+At step 370, Update gradient for each batch taken: 0.13s
+At step 380, Update gradient for each batch taken: 0.13s
+At step 390, Update gradient for each batch taken: 0.13s
+At step 400, Update gradient for each batch taken: 0.14s
+At step 410, Update gradient for each batch taken: 0.13s
+At step 420, Update gradient for each batch taken: 0.13s
+At step 430, Update gradient for each batch taken: 0.13s
+At step 440, Update gradient for each batch taken: 0.13s
+At step 450, Update gradient for each batch taken: 0.12s
+At step 460, Update gradient for each batch taken: 0.13s
+Time taken: 142.04s
+Training acc over epoch: 0.9682, Training loss (for one epoch) at step: 0.1048
+
+Start of epoch 2
+At step 10, Update gradient for each batch taken: 0.14s
+At step 20, Update gradient for each batch taken: 0.13s
+At step 30, Update gradient for each batch taken: 0.13s
+At step 40, Update gradient for each batch taken: 0.13s
+At step 50, Update gradient for each batch taken: 0.13s
+At step 60, Update gradient for each batch taken: 0.13s
+At step 70, Update gradient for each batch taken: 0.13s
+At step 80, Update gradient for each batch taken: 0.13s
+At step 90, Update gradient for each batch taken: 0.13s
+At step 100, Update gradient for each batch taken: 0.13s
+At step 110, Update gradient for each batch taken: 0.13s
+At step 120, Update gradient for each batch taken: 0.13s
+At step 130, Update gradient for each batch taken: 0.13s
+At step 140, Update gradient for each batch taken: 0.12s
+At step 150, Update gradient for each batch taken: 0.12s
+At step 160, Update gradient for each batch taken: 0.13s
+At step 170, Update gradient for each batch taken: 0.13s
+At step 180, Update gradient for each batch taken: 0.13s
+At step 190, Update gradient for each batch taken: 0.13s
+At step 200, Update gradient for each batch taken: 0.12s
+At step 210, Update gradient for each batch taken: 0.13s
+At step 220, Update gradient for each batch taken: 0.12s
+At step 230, Update gradient for each batch taken: 0.12s
+At step 240, Update gradient for each batch taken: 0.12s
+At step 250, Update gradient for each batch taken: 0.13s
+At step 260, Update gradient for each batch taken: 0.13s
+At step 270, Update gradient for each batch taken: 0.13s
+At step 280, Update gradient for each batch taken: 0.13s
+At step 290, Update gradient for each batch taken: 0.14s
+At step 300, Update gradient for each batch taken: 0.13s
+At step 310, Update gradient for each batch taken: 0.13s
+At step 320, Update gradient for each batch taken: 0.13s
+At step 330, Update gradient for each batch taken: 0.13s
+At step 340, Update gradient for each batch taken: 0.13s
+At step 350, Update gradient for each batch taken: 0.13s
+At step 360, Update gradient for each batch taken: 0.14s
+At step 370, Update gradient for each batch taken: 0.14s
+At step 380, Update gradient for each batch taken: 0.13s
+At step 390, Update gradient for each batch taken: 0.13s
+At step 400, Update gradient for each batch taken: 0.14s
+At step 410, Update gradient for each batch taken: 0.13s
+At step 420, Update gradient for each batch taken: 0.13s
+At step 430, Update gradient for each batch taken: 0.13s
+At step 440, Update gradient for each batch taken: 0.13s
+At step 450, Update gradient for each batch taken: 0.13s
+At step 460, Update gradient for each batch taken: 0.13s
+Time taken: 142.53s
+Training acc over epoch: 0.9778, Training loss (for one epoch) at step: 0.0748
+
+Start of epoch 3
+At step 10, Update gradient for each batch taken: 0.12s
+At step 20, Update gradient for each batch taken: 0.13s
+At step 30, Update gradient for each batch taken: 0.13s
+At step 40, Update gradient for each batch taken: 0.13s
+At step 50, Update gradient for each batch taken: 0.12s
+At step 60, Update gradient for each batch taken: 0.12s
+At step 70, Update gradient for each batch taken: 0.12s
+At step 80, Update gradient for each batch taken: 0.12s
+At step 90, Update gradient for each batch taken: 0.12s
+At step 100, Update gradient for each batch taken: 0.12s
+At step 110, Update gradient for each batch taken: 0.12s
+At step 120, Update gradient for each batch taken: 0.12s
+At step 130, Update gradient for each batch taken: 0.12s
+At step 140, Update gradient for each batch taken: 0.12s
+At step 150, Update gradient for each batch taken: 0.12s
+At step 160, Update gradient for each batch taken: 0.12s
+At step 170, Update gradient for each batch taken: 0.12s
+At step 180, Update gradient for each batch taken: 0.12s
+At step 190, Update gradient for each batch taken: 0.12s
+At step 200, Update gradient for each batch taken: 0.12s
+At step 210, Update gradient for each batch taken: 0.12s
+At step 220, Update gradient for each batch taken: 0.13s
+At step 230, Update gradient for each batch taken: 0.13s
+At step 240, Update gradient for each batch taken: 0.13s
+At step 250, Update gradient for each batch taken: 0.12s
+At step 260, Update gradient for each batch taken: 0.13s
+At step 270, Update gradient for each batch taken: 0.12s
+At step 280, Update gradient for each batch taken: 0.12s
+At step 290, Update gradient for each batch taken: 0.13s
+At step 300, Update gradient for each batch taken: 0.12s
+At step 310, Update gradient for each batch taken: 0.12s
+At step 320, Update gradient for each batch taken: 0.12s
+At step 330, Update gradient for each batch taken: 0.12s
+At step 340, Update gradient for each batch taken: 0.13s
+At step 350, Update gradient for each batch taken: 0.12s
+At step 360, Update gradient for each batch taken: 0.12s
+At step 370, Update gradient for each batch taken: 0.12s
+At step 380, Update gradient for each batch taken: 0.12s
+At step 390, Update gradient for each batch taken: 0.12s
+At step 400, Update gradient for each batch taken: 0.13s
+At step 410, Update gradient for each batch taken: 0.13s
+At step 420, Update gradient for each batch taken: 0.12s
+At step 430, Update gradient for each batch taken: 0.12s
+At step 440, Update gradient for each batch taken: 0.12s
+At step 450, Update gradient for each batch taken: 0.12s
+At step 460, Update gradient for each batch taken: 0.13s
+Time taken: 82.23s
+Training acc over epoch: 0.9817, Training loss (for one epoch) at step: 0.0608
+
+Start of epoch 4
+At step 10, Update gradient for each batch taken: 0.12s
+At step 20, Update gradient for each batch taken: 0.12s
+At step 30, Update gradient for each batch taken: 0.12s
+At step 40, Update gradient for each batch taken: 0.12s
+At step 50, Update gradient for each batch taken: 0.12s
+At step 60, Update gradient for each batch taken: 0.12s
+At step 70, Update gradient for each batch taken: 0.12s
+At step 80, Update gradient for each batch taken: 0.12s
+At step 90, Update gradient for each batch taken: 0.12s
+At step 100, Update gradient for each batch taken: 0.13s
+At step 110, Update gradient for each batch taken: 0.12s
+At step 120, Update gradient for each batch taken: 0.13s
+At step 130, Update gradient for each batch taken: 0.13s
+At step 140, Update gradient for each batch taken: 0.12s
+At step 150, Update gradient for each batch taken: 0.12s
+At step 160, Update gradient for each batch taken: 0.12s
+At step 170, Update gradient for each batch taken: 0.12s
+At step 180, Update gradient for each batch taken: 0.12s
+At step 190, Update gradient for each batch taken: 0.12s
+At step 200, Update gradient for each batch taken: 0.12s
+At step 210, Update gradient for each batch taken: 0.12s
+At step 220, Update gradient for each batch taken: 0.12s
+At step 230, Update gradient for each batch taken: 0.12s
+At step 240, Update gradient for each batch taken: 0.12s
+At step 250, Update gradient for each batch taken: 0.12s
+At step 260, Update gradient for each batch taken: 0.12s
+At step 270, Update gradient for each batch taken: 0.12s
+At step 280, Update gradient for each batch taken: 0.12s
+At step 290, Update gradient for each batch taken: 0.12s
+At step 300, Update gradient for each batch taken: 0.12s
+At step 310, Update gradient for each batch taken: 0.13s
+At step 320, Update gradient for each batch taken: 0.13s
+At step 330, Update gradient for each batch taken: 0.12s
+At step 340, Update gradient for each batch taken: 0.12s
+At step 350, Update gradient for each batch taken: 0.12s
+At step 360, Update gradient for each batch taken: 0.12s
+At step 370, Update gradient for each batch taken: 0.13s
+At step 380, Update gradient for each batch taken: 0.12s
+At step 390, Update gradient for each batch taken: 0.12s
+At step 400, Update gradient for each batch taken: 0.12s
+At step 410, Update gradient for each batch taken: 0.12s
+At step 420, Update gradient for each batch taken: 0.12s
+At step 430, Update gradient for each batch taken: 0.13s
+At step 440, Update gradient for each batch taken: 0.12s
+At step 450, Update gradient for each batch taken: 0.12s
+At step 460, Update gradient for each batch taken: 0.12s
+Time taken: 82.03s
+Training acc over epoch: 0.9850, Training loss (for one epoch) at step: 0.0518
+Test loss: 0.0441468246281147
+Test accuracy: 0.9879999756813049
+Total run time: 595.27s

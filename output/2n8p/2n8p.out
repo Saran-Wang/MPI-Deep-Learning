@@ -1,0 +1,57 @@
+here
+here
+here
+here
+here
+here
+here
+here
+Time taken to read file: 0.53s
+
+Start of epoch 0
+At step 10, Update gradient for each batch taken: 0.18s
+At step 20, Update gradient for each batch taken: 0.18s
+At step 30, Update gradient for each batch taken: 0.18s
+At step 40, Update gradient for each batch taken: 0.18s
+At step 50, Update gradient for each batch taken: 0.19s
+Time taken: 20.52s
+Training acc over epoch: 0.1375, Training loss (for one epoch) at step: 2.2564
+
+Start of epoch 1
+At step 10, Update gradient for each batch taken: 0.18s
+At step 20, Update gradient for each batch taken: 0.20s
+At step 30, Update gradient for each batch taken: 0.18s
+At step 40, Update gradient for each batch taken: 0.18s
+At step 50, Update gradient for each batch taken: 0.18s
+Time taken: 20.52s
+Training acc over epoch: 0.6449, Training loss (for one epoch) at step: 0.9933
+
+Start of epoch 2
+At step 10, Update gradient for each batch taken: 0.18s
+At step 20, Update gradient for each batch taken: 0.18s
+At step 30, Update gradient for each batch taken: 0.19s
+At step 40, Update gradient for each batch taken: 0.17s
+At step 50, Update gradient for each batch taken: 0.17s
+Time taken: 20.53s
+Training acc over epoch: 0.9153, Training loss (for one epoch) at step: 0.2820
+
+Start of epoch 3
+At step 10, Update gradient for each batch taken: 0.17s
+At step 20, Update gradient for each batch taken: 0.17s
+At step 30, Update gradient for each batch taken: 0.17s
+At step 40, Update gradient for each batch taken: 0.17s
+At step 50, Update gradient for each batch taken: 0.17s
+Time taken: 20.52s
+Training acc over epoch: 0.9375, Training loss (for one epoch) at step: 0.2092
+
+Start of epoch 4
+At step 10, Update gradient for each batch taken: 0.19s
+At step 20, Update gradient for each batch taken: 0.18s
+At step 30, Update gradient for each batch taken: 0.16s
+At step 40, Update gradient for each batch taken: 0.17s
+At step 50, Update gradient for each batch taken: 0.16s
+Time taken: 20.53s
+Training acc over epoch: 0.9487, Training loss (for one epoch) at step: 0.1719
+Test loss: 0.11152157932519913
+Test accuracy: 0.9674999713897705
+Total run time: 97.32s
